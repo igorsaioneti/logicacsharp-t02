@@ -1,0 +1,14 @@
+C:\Users\igor.samorim1\source\repos\variaveisecostantes\variaveisecostantes\obj\Debug\net8.0\variaveisecostantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.samorim1\source\repos\variaveisecostantes\variaveisecostantes\obj\Debug\net8.0\variaveisecostantes.AssemblyInfoInputs.cache
+C:\Users\igor.samorim1\source\repos\variaveisecostantes\variaveisecostantes\obj\Debug\net8.0\variaveisecostantes.AssemblyInfo.cs
+C:\Users\igor.samorim1\source\repos\variaveisecostantes\variaveisecostantes\obj\Debug\net8.0\variaveisecostantes.csproj.CoreCompileInputs.cache
+C:\Users\igor.samorim1\source\repos\variaveisecostantes\variaveisecostantes\bin\Debug\net8.0\variaveisecostantes.exe
+C:\Users\igor.samorim1\source\repos\variaveisecostantes\variaveisecostantes\bin\Debug\net8.0\variaveisecostantes.deps.json
+C:\Users\igor.samorim1\source\repos\variaveisecostantes\variaveisecostantes\bin\Debug\net8.0\variaveisecostantes.runtimeconfig.json
+C:\Users\igor.samorim1\source\repos\variaveisecostantes\variaveisecostantes\bin\Debug\net8.0\variaveisecostantes.dll
+C:\Users\igor.samorim1\source\repos\variaveisecostantes\variaveisecostantes\bin\Debug\net8.0\variaveisecostantes.pdb
+C:\Users\igor.samorim1\source\repos\variaveisecostantes\variaveisecostantes\obj\Debug\net8.0\variaveisecostantes.dll
+C:\Users\igor.samorim1\source\repos\variaveisecostantes\variaveisecostantes\obj\Debug\net8.0\refint\variaveisecostantes.dll
+C:\Users\igor.samorim1\source\repos\variaveisecostantes\variaveisecostantes\obj\Debug\net8.0\variaveisecostantes.pdb
+C:\Users\igor.samorim1\source\repos\variaveisecostantes\variaveisecostantes\obj\Debug\net8.0\variaveisecostantes.genruntimeconfig.cache
+C:\Users\igor.samorim1\source\repos\variaveisecostantes\variaveisecostantes\obj\Debug\net8.0\ref\variaveisecostantes.dll
