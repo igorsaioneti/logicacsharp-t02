@@ -1,0 +1,15 @@
+C:\Users\igor.samorim1\source\repos\operadoresrelacionais\operadoresrelacionais\bin\Debug\net8.0\operadoresrelacionais.exe
+C:\Users\igor.samorim1\source\repos\operadoresrelacionais\operadoresrelacionais\bin\Debug\net8.0\operadoresrelacionais.deps.json
+C:\Users\igor.samorim1\source\repos\operadoresrelacionais\operadoresrelacionais\bin\Debug\net8.0\operadoresrelacionais.runtimeconfig.json
+C:\Users\igor.samorim1\source\repos\operadoresrelacionais\operadoresrelacionais\bin\Debug\net8.0\operadoresrelacionais.dll
+C:\Users\igor.samorim1\source\repos\operadoresrelacionais\operadoresrelacionais\bin\Debug\net8.0\operadoresrelacionais.pdb
+C:\Users\igor.samorim1\source\repos\operadoresrelacionais\operadoresrelacionais\obj\Debug\net8.0\operadoresrelacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igor.samorim1\source\repos\operadoresrelacionais\operadoresrelacionais\obj\Debug\net8.0\operadoresrelacionais.AssemblyInfoInputs.cache
+C:\Users\igor.samorim1\source\repos\operadoresrelacionais\operadoresrelacionais\obj\Debug\net8.0\operadoresrelacionais.AssemblyInfo.cs
+C:\Users\igor.samorim1\source\repos\operadoresrelacionais\operadoresrelacionais\obj\Debug\net8.0\operadoresrelacionais.csproj.CoreCompileInputs.cache
+C:\Users\igor.samorim1\source\repos\operadoresrelacionais\operadoresrelacionais\obj\Debug\net8.0\operadoresrelacionais.sourcelink.json
+C:\Users\igor.samorim1\source\repos\operadoresrelacionais\operadoresrelacionais\obj\Debug\net8.0\operadoresrelacionais.dll
+C:\Users\igor.samorim1\source\repos\operadoresrelacionais\operadoresrelacionais\obj\Debug\net8.0\refint\operadoresrelacionais.dll
+C:\Users\igor.samorim1\source\repos\operadoresrelacionais\operadoresrelacionais\obj\Debug\net8.0\operadoresrelacionais.pdb
+C:\Users\igor.samorim1\source\repos\operadoresrelacionais\operadoresrelacionais\obj\Debug\net8.0\operadoresrelacionais.genruntimeconfig.cache
+C:\Users\igor.samorim1\source\repos\operadoresrelacionais\operadoresrelacionais\obj\Debug\net8.0\ref\operadoresrelacionais.dll
